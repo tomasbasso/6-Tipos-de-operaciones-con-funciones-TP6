@@ -1,0 +1,32 @@
+C:\Users\Usuario\Desktop\ITES\Programacion\Tipos de operaciones\bin\Debug\net5.0\Tipos de operaciones.exe
+C:\Users\Usuario\Desktop\ITES\Programacion\Tipos de operaciones\bin\Debug\net5.0\Tipos de operaciones.deps.json
+C:\Users\Usuario\Desktop\ITES\Programacion\Tipos de operaciones\bin\Debug\net5.0\Tipos de operaciones.runtimeconfig.json
+C:\Users\Usuario\Desktop\ITES\Programacion\Tipos de operaciones\bin\Debug\net5.0\Tipos de operaciones.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\ITES\Programacion\Tipos de operaciones\bin\Debug\net5.0\Tipos de operaciones.dll
+C:\Users\Usuario\Desktop\ITES\Programacion\Tipos de operaciones\bin\Debug\net5.0\Tipos de operaciones.pdb
+C:\Users\Usuario\Desktop\ITES\Programacion\Tipos de operaciones\obj\Debug\net5.0\Tipos de operaciones.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ITES\Programacion\Tipos de operaciones\obj\Debug\net5.0\Tipos de operaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\ITES\Programacion\Tipos de operaciones\obj\Debug\net5.0\Tipos de operaciones.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ITES\Programacion\Tipos de operaciones\obj\Debug\net5.0\Tipos de operaciones.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ITES\Programacion\Tipos de operaciones\obj\Debug\net5.0\Tipos de operaciones.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ITES\Programacion\Tipos de operaciones\obj\Debug\net5.0\Tipos de operaciones.dll
+C:\Users\Usuario\Desktop\ITES\Programacion\Tipos de operaciones\obj\Debug\net5.0\refint\Tipos de operaciones.dll
+C:\Users\Usuario\Desktop\ITES\Programacion\Tipos de operaciones\obj\Debug\net5.0\Tipos de operaciones.pdb
+C:\Users\Usuario\Desktop\ITES\Programacion\Tipos de operaciones\obj\Debug\net5.0\Tipos de operaciones.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\ITES\Programacion\Tipos de operaciones\obj\Debug\net5.0\ref\Tipos de operaciones.dll
+C:\Users\Usuario\Desktop\ITES\Programacion\Primer trabajo de c#\6)Tipos de operaciones\bin\Debug\net5.0\Tipos de operaciones.exe
+C:\Users\Usuario\Desktop\ITES\Programacion\Primer trabajo de c#\6)Tipos de operaciones\bin\Debug\net5.0\Tipos de operaciones.deps.json
+C:\Users\Usuario\Desktop\ITES\Programacion\Primer trabajo de c#\6)Tipos de operaciones\bin\Debug\net5.0\Tipos de operaciones.runtimeconfig.json
+C:\Users\Usuario\Desktop\ITES\Programacion\Primer trabajo de c#\6)Tipos de operaciones\bin\Debug\net5.0\Tipos de operaciones.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\ITES\Programacion\Primer trabajo de c#\6)Tipos de operaciones\bin\Debug\net5.0\Tipos de operaciones.dll
+C:\Users\Usuario\Desktop\ITES\Programacion\Primer trabajo de c#\6)Tipos de operaciones\bin\Debug\net5.0\Tipos de operaciones.pdb
+C:\Users\Usuario\Desktop\ITES\Programacion\Primer trabajo de c#\6)Tipos de operaciones\obj\Debug\net5.0\Tipos de operaciones.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ITES\Programacion\Primer trabajo de c#\6)Tipos de operaciones\obj\Debug\net5.0\Tipos de operaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\ITES\Programacion\Primer trabajo de c#\6)Tipos de operaciones\obj\Debug\net5.0\Tipos de operaciones.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ITES\Programacion\Primer trabajo de c#\6)Tipos de operaciones\obj\Debug\net5.0\Tipos de operaciones.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ITES\Programacion\Primer trabajo de c#\6)Tipos de operaciones\obj\Debug\net5.0\Tipos de operaciones.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ITES\Programacion\Primer trabajo de c#\6)Tipos de operaciones\obj\Debug\net5.0\Tipos de operaciones.dll
+C:\Users\Usuario\Desktop\ITES\Programacion\Primer trabajo de c#\6)Tipos de operaciones\obj\Debug\net5.0\refint\Tipos de operaciones.dll
+C:\Users\Usuario\Desktop\ITES\Programacion\Primer trabajo de c#\6)Tipos de operaciones\obj\Debug\net5.0\Tipos de operaciones.pdb
+C:\Users\Usuario\Desktop\ITES\Programacion\Primer trabajo de c#\6)Tipos de operaciones\obj\Debug\net5.0\Tipos de operaciones.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\ITES\Programacion\Primer trabajo de c#\6)Tipos de operaciones\obj\Debug\net5.0\ref\Tipos de operaciones.dll
